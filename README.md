@@ -1,6 +1,6 @@
 # CoreWar
 
-A programming game introduced by A. K. Dewdney and D. G. Jones in 1984 where two or more so called "warriors" are put against each other to gain control of a virtual computer. The warriors core is based on an assembly language called Redcode.[1]
+A programming game introduced by A. K. Dewdney and D. G. Jones in 1984 where two or more so called "warriors" are put against each other to gain control of a virtual computer. The warriors core is based on an assembly language called Redcode.
 
 ## pMARS
 
@@ -108,3 +108,9 @@ The script executes the following command ```./pmars/src/pmars -b -r 10000 warri
     Enter the name of the output file: benchmark_randomWarrior
 ```
 ![Logo](https://i.imgur.com/Q8oc0rn.png)
+
+# References
+
+ANDERSEN, David G. The Garden: Evolving Warriors in Core Wars. 2001. [https://www.cs.unm.edu/~htasnim30/files/evolving-core-war.pdf](https://www.cs.unm.edu/~htasnim30/files/evolving-core-war.pdf)
+
+SIDDIQUEE, MOHAMMAD ASHRAF; SURJADIDJAJA, VANESSA. Implementation of a Genetic Algorithm to Simulate the Evolution of CoreWar Warriors Based on Fitness Values. 2016. [https://www.cs.unm.edu/~siddiquee/pdfs/CASProject1.pdf](https://www.cs.unm.edu/~siddiquee/pdfs/CASProject1.pdf)
