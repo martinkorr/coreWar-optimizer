@@ -20,7 +20,7 @@ More detailed information can be found under the following links:
 Before following the instructions below, clone the project into any desired directory using Git:
 
 ```bash
-    git clone https://github.com/martinkorr/coreWar-optimizer.git
+    git clone 
 ```
 
 ### Project structur
@@ -45,12 +45,28 @@ To compile the project, you need to navigate to the build folder:
 ```bash
     cd build/
 ```
+
+If the folder is not empty delete all files inside the folder with:
+
+```bash
+    rm -rf *
+```
+
 Afterward, execute the following commands:
 
 ```bash
     cmake .. 
     make
 ```
+In case the folder doesnt exist create one and then use the ```cmake ..``` command.
+
+```bash
+    mkdir build
+    cd build/
+    cmake ..
+    make
+```
+
 After successfully executing the ```cmake ..``` command, the following message should appear in the terminal:
 
 ![Logo](https://i.imgur.com/GN60I0R.png)
