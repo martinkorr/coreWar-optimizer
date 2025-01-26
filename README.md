@@ -20,7 +20,7 @@ More detailed information can be found under the following links:
 Before following the instructions below, clone the project into any desired directory using Git:
 
 ```bash
-    git clone 
+    git clone https://github.com/martinkorr/coreWar-optimizer.git
 ```
 
 ### Project structur
